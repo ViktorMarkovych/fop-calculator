@@ -8,3 +8,4 @@ else:
 ep = (suma / 100 * rate)
 print("EP =",ep, "UAN")
 print("ESV =",esv, "UAN")
+print()
